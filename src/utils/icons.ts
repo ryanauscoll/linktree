@@ -1,4 +1,4 @@
-import { FaTwitter, FaUserAstronaut, FaMusic, FaRaspberryPi, FaGithubAlt, FaInstagram, FaSpotify} from "react-icons/fa";
+import { FaTwitter, FaUserAstronaut, FaMusic, FaRaspberryPi, FaGithubAlt, FaInstagram, FaSpotify, FaYoutube} from "react-icons/fa";
 import { CgWebsite } from "react-icons/cg";
 import { HiUser } from "react-icons/hi";
 import { RiAtFill, RiUserFill } from "react-icons/ri";
@@ -37,4 +37,5 @@ export default {
     FaInstagram,
     FaSpotify,
     CgWebsite,
+    FaYoutube,
 };
