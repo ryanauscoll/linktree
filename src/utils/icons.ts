@@ -1,4 +1,5 @@
-import { FaTwitter, FaUserAstronaut, FaMusic, FaRaspberryPi, FaGithubAlt } from "react-icons/fa";
+import { FaTwitter, FaUserAstronaut, FaMusic, FaRaspberryPi, FaGithubAlt, FaInstagram, FaSpotify} from "react-icons/fa";
+import { CgWebsite } from "react-icons/cg";
 import { HiUser } from "react-icons/hi";
 import { RiAtFill, RiUserFill } from "react-icons/ri";
 import { SiDiscord, SiKofi, SiTrello, SiMyanimelist } from "react-icons/si";
@@ -33,4 +34,7 @@ export default {
     BsFillStarFill,
     IoSparklesSharp,
     PiButterflyFill,
+    FaInstagram,
+    FaSpotify,
+    CgWebsite,
 };
