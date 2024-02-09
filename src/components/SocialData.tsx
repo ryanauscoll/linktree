@@ -8,16 +8,20 @@ export interface SocialData {
 
 const socialData: SocialData[] = [
     {
-        href: "https://discordid.netlify.app/?id=658545228697042965",
-        icon: <icons.PiButterflyFill />,
+        href: "https://github.com/icekeys",
+        icon: <icons.FaGithubAlt />,
     },
     {
-        href: "https://discord.gg/cutesie",
+        href: "https://discordapp.com/users/577504277207973928",
         icon: <icons.SiDiscord />,
     },
     {
-        href: "https://twitter.com/unamona__w",
-        icon: <icons.FaTwitter />,
+        href: "https://www.instagram.com/ryancollingham",
+        icon: <icons.FaInstagram />,
+    },
+    {
+        href: "https://open.spotify.com/user/nkdosz5uulhwd9zkw3yg7gljm?si=efb65d83bebc46f2",
+        icon: <icons.FaSpotify />,
     }
 ];
 
